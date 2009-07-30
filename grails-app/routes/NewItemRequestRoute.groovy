@@ -1,0 +1,6 @@
+
+class NewItemRequestRoute {
+    def configure = {
+
+	}
+}
